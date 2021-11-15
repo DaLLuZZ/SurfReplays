@@ -1,4 +1,3 @@
-
 name: BackUp
 
 on:
@@ -16,27 +15,41 @@ jobs:
       - name: Install LFTP
         run: |
           sudo apt install lftp
+
+      - name: Get Current Time
+        id: date
+        run: echo "::set-output name=date::$(date +'%H-%M-%d-%m-%Y')"
+
       - name: Connect & Download Replays
         run: |
-          lftp -c "debug; set ftp:ssl-allow false; set ssl:verify-certificate false; open -u ftp_klemix,sdf229hJHSDHJf92ughfjihkshdfh92hfuhsdfsdf 51.195.60.31; mirror --continue --parallel=40" || true
+          lftp -c "debug; set ftp:ssl-allow false; set ssl:verify-certificate false; open -u ${{secrets.FTP_AUTH}}; mirror --continue --parallel=40" || true
+
       - name: Lists 66tick
         run: |
-          dir -g --human-readable --no-group -B replay/66tick > 66tick.txt
           dir -g --human-readable --no-group -B --sort=time --ignore-backups replay/66tick > 66tickTime.txt
           dir -g --human-readable --no-group -B --sort=size --ignore-backups replay/66tick > 66tickSize.txt
+
       - name: Lists 85tick
         run: |
-          dir -g --human-readable --no-group -B replay/85tick > 85tick.txt
-          dir -g --human-readable --no-group -B --sort=time replay/85tick > 85tickTime.txt
-          dir -g --human-readable --no-group -B --sort=size replay/85tick > 85tickSize.txt
+          dir -g --human-readable --no-group -B --sort=time --ignore-backups replay/85tick > 85tickTime.txt
+          dir -g --human-readable --no-group -B --sort=size --ignore-backups replay/85tick > 85tickSize.txt
 
       - name: Delete tmp files
         run: |
           rm *.txt~*~ || true
 
-      - name: Get Current Time
-        id: date
-        run: echo "::set-output name=date::$(date +'%H-%M-%d-%m-%Y')"
+      - name: SetUp Python
+        uses: actions/setup-python@v2
+        with:
+            python-version: 3.8
+
+      - name: SetUp Dependences
+        run: |
+            python3 -m pip install -U PTable
+
+      - name: Execute script.py
+        run: |
+            python script.py
 
       - name: Commit & Push To Github
         uses: stefanzweifel/git-auto-commit-action@v4
