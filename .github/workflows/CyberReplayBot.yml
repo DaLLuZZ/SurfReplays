@@ -12,6 +12,10 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
+      - name: Delete Old Files
+        run: |
+          rm -rf replay
+
       - name: Install LFTP
         run: |
           sudo apt install lftp
