@@ -1,9 +1,30 @@
 total 1.3G
--rw-r--r-- 1  124K Jan  3  2022 surf_me_bonus_3.rec
--rw-r--r-- 1   92K Jan  3  2022 surf_gleam2_stage_2.rec
--rw-r--r-- 1   91K Jan  3  2022 surf_gleam2_stage_3.rec
--rw-r--r-- 1   96K Jan  3  2022 surf_gleam2_stage_1.rec
--rw-r--r-- 1   89K Jan  3  2022 surf_gleam2_stage_4.rec
+-rw-r--r-- 1   52K Jan  4  2022 surf_dreams_stage_4.rec
+-rw-r--r-- 1  254K Jan  4  2022 surf_the_gloaming.rec
+-rw-r--r-- 1   56K Jan  4 01:02 surf_sandtrap2_bonus_4.rec
+-rw-r--r-- 1  142K Jan  3 23:41 surf_sandtrap2_bonus_1_style_5.rec
+-rw-r--r-- 1  145K Jan  3 23:40 surf_sandtrap2_bonus_2_style_5.rec
+-rw-r--r-- 1  199K Jan  3 20:18 surf_4dimensional_stage_2.rec
+-rw-r--r-- 1   99K Jan  3 19:55 surf_kitsune2_stage_9.rec
+-rw-r--r-- 1   37K Jan  3 19:03 surf_sempar_njv_stage_1.rec
+-rw-r--r-- 1  245K Jan  3 18:58 surf_conserve.rec
+-rw-r--r-- 1   99K Jan  3 15:23 surf_epithet_bonus_1.rec
+-rw-r--r-- 1   51K Jan  3 15:23 surf_aweles_stage_5.rec
+-rw-r--r-- 1   41K Jan  3 15:17 surf_aweles_stage_4.rec
+-rw-r--r-- 1   38K Jan  3 15:15 surf_aweles_stage_3.rec
+-rw-r--r-- 1  230K Jan  3 15:09 surf_epithet.rec
+-rw-r--r-- 1  184K Jan  3 14:03 surf_leet_xl_beta7z__style_3.rec
+-rw-r--r-- 1   75K Jan  3 13:28 surf_fade_stage_5.rec
+-rw-r--r-- 1   61K Jan  3 13:19 surf_fade_stage_1.rec
+-rw-r--r-- 1  523K Jan  3 06:09 surf_freedom-.rec
+-rw-r--r-- 1  123K Jan  3 06:03 surf_freedom-_stage_4.rec
+-rw-r--r-- 1   92K Jan  3 05:51 surf_freedom-_stage_3.rec
+-rw-r--r-- 1   83K Jan  3 04:15 surf_abstinens_stage_4.rec
+-rw-r--r-- 1  124K Jan  3 04:02 surf_me_bonus_3.rec
+-rw-r--r-- 1   92K Jan  3 02:48 surf_gleam2_stage_2.rec
+-rw-r--r-- 1   91K Jan  3 02:43 surf_gleam2_stage_3.rec
+-rw-r--r-- 1   96K Jan  3 02:31 surf_gleam2_stage_1.rec
+-rw-r--r-- 1   89K Jan  3 02:26 surf_gleam2_stage_4.rec
 -rw-r--r-- 1   73K Jan  3 01:01 surf_edge_bonus_3.rec
 -rw-r--r-- 1  568K Jan  3 00:44 surf_jumble.rec
 -rw-r--r-- 1  151K Jan  3 00:01 surf_jumble_stage_2.rec
@@ -58,7 +79,6 @@ total 1.3G
 -rw-r--r-- 1   27K Jan  1 16:28 surf_animals_ksf_stage_1.rec
 -rw-r--r-- 1   60K Jan  1 16:16 surf_kitsune2_stage_1.rec
 -rw-r--r-- 1  256K Jan  1 16:10 surf_eon.rec
--rw-r--r-- 1   64K Jan  1 15:08 surf_sandtrap2_bonus_4.rec
 -rw-r--r-- 1  101K Jan  1 14:30 surf_loentra_easy_bonus_1.rec
 -rw-r--r-- 1   31K Jan  1 12:33 surf_decked_stage_1.rec
 -rw-r--r-- 1  1.2M Jan  1 10:58 surf_deadline_style_5.rec
@@ -1022,7 +1042,6 @@ total 1.3G
 -rw-r--r-- 1   91K Dec  5 17:00 surf_exocube_m_stage_5.rec
 -rw-r--r-- 1   76K Dec  5 16:58 surf_exocube_m_stage_4.rec
 -rw-r--r-- 1  253K Dec  5 16:36 surf_hopi_easy.rec
--rw-r--r-- 1   57K Dec  5 12:04 surf_fade_stage_1.rec
 -rw-r--r-- 1   98K Dec  5 10:17 surf_jaqen_bonus_2.rec
 -rw-r--r-- 1  116K Dec  5 01:17 surf_classics3_bonus_5.rec
 -rw-r--r-- 1   81K Dec  4 23:41 surf_papertown_bonus_1.rec
@@ -1244,7 +1263,6 @@ total 1.3G
 -rw-r--r-- 1   68K Nov 24 20:11 surf_sempar_njv_bonus_1.rec
 -rw-r--r-- 1  517K Nov 24 19:59 surf_sempar_njv.rec
 -rw-r--r-- 1   92K Nov 24 18:48 surf_grotto_bonus_2_style_7.rec
--rw-r--r-- 1   37K Nov 24 17:03 surf_sempar_njv_stage_1.rec
 -rw-r--r-- 1   52K Nov 24 16:32 surf_exile_njv_stage_4.rec
 -rw-r--r-- 1   89K Nov 24 16:06 surf_tempest2_bonus_2.rec
 -rw-r--r-- 1  685K Nov 24 15:52 surf_4dimensional.rec
@@ -1288,7 +1306,6 @@ total 1.3G
 -rw-r--r-- 1  135K Nov 23 01:16 surf_happyhands2_bonus_1.rec
 -rw-r--r-- 1  500K Nov 23 01:14 surf_mudkip_fix.rec
 -rw-r--r-- 1  359K Nov 23 00:43 surf_sylvan.rec
--rw-r--r-- 1   99K Nov 23 00:40 surf_epithet_bonus_1.rec
 -rw-r--r-- 1  516K Nov 22 23:52 surf_boy_fixed.rec
 -rw-r--r-- 1  239K Nov 22 23:48 surf_boy_fixed_stage_1.rec
 -rw-r--r-- 1  262K Nov 22 23:44 surf_boy_fixed_stage_2.rec
@@ -1571,7 +1588,6 @@ total 1.3G
 -rw-r--r-- 1   77K Nov  9 19:11 surf_ardon_refix_bonus_5.rec
 -rw-r--r-- 1  105K Nov  9 19:09 surf_ardon_refix_bonus_3.rec
 -rw-r--r-- 1   57K Nov  9 18:57 surf_aser_stage_5.rec
--rw-r--r-- 1   50K Nov  9 17:56 surf_aweles_stage_5.rec
 -rw-r--r-- 1  114K Nov  9 10:37 surf_bumpybusride_stage_2.rec
 -rw-r--r-- 1  137K Nov  8 18:27 surf_clujreek_bonus_2.rec
 -rw-r--r-- 1   61K Nov  8 17:47 surf_goat_fix_bonus_2.rec
@@ -1706,7 +1722,6 @@ total 1.3G
 -rw-r--r-- 1   86K Oct 31 21:53 surf_bonus_stage_2.rec
 -rw-r--r-- 1   57K Oct 31 21:13 surf_lore_e_bonus_1.rec
 -rw-r--r-- 1   71K Oct 31 20:57 surf_lore_e_stage_7.rec
--rw-r--r-- 1   59K Oct 31 20:01 surf_dreams_stage_4.rec
 -rw-r--r-- 1  638K Oct 31 18:57 surf_cyka_ksf_style_4.rec
 -rw-r--r-- 1   52K Oct 31 18:39 surf_syria_again_stage_8.rec
 -rw-r--r-- 1   66K Oct 31 18:15 surf_syria_stage_5.rec
@@ -1805,7 +1820,6 @@ total 1.3G
 -rw-r--r-- 1   63K Oct 28 18:18 surf_lockdown_bonus_1.rec
 -rw-r--r-- 1  213K Oct 28 17:40 surf_lockdown.rec
 -rw-r--r-- 1   58K Oct 28 17:38 surf_lt_omnific_fix_stage_1.rec
--rw-r--r-- 1   99K Oct 28 17:35 surf_freedom-_stage_3.rec
 -rw-r--r-- 1   86K Oct 28 16:07 surf_surprise_bonus_1_style_7.rec
 -rw-r--r-- 1  107K Oct 28 15:27 surf_lax_stage_3.rec
 -rw-r--r-- 1  139K Oct 28 15:08 surf_lax_stage_5.rec
@@ -3006,7 +3020,6 @@ total 1.3G
 -rw-r--r-- 1  584K Sep  5 12:15 surf_sandman_v2.rec
 -rw-r--r-- 1   98K Sep  5 08:57 surf_sensation_ksf_stage_4.rec
 -rw-r--r-- 1  115K Sep  5 08:56 surf_sensation_ksf_stage_3.rec
--rw-r--r-- 1  106K Sep  4 23:10 surf_kitsune2_stage_9.rec
 -rw-r--r-- 1  206K Sep  4 23:06 surf_shade.rec
 -rw-r--r-- 1   74K Sep  4 22:17 surf_feudal_stage_1.rec
 -rw-r--r-- 1  145K Sep  4 22:08 surf_feudal_stage_4.rec
@@ -3264,7 +3277,6 @@ total 1.3G
 -rw-r--r-- 1  162K Sep  3 19:31 surf_torque2_stage_4.rec
 -rw-r--r-- 1   67K Sep  3 19:31 surf_torque_bonus_1.rec
 -rw-r--r-- 1  375K Sep  3 19:31 surf_tenzo_style_5.rec
--rw-r--r-- 1  273K Sep  3 19:31 surf_the_gloaming.rec
 -rw-r--r-- 1   86K Sep  3 19:31 surf_thicket_bonus_2.rec
 -rw-r--r-- 1  412K Sep  3 19:31 surf_thicket_style_5.rec
 -rw-r--r-- 1  259K Sep  3 19:31 surf_thief_fix.rec
@@ -3600,8 +3612,6 @@ total 1.3G
 -rw-r--r-- 1  105K Sep  3 19:30 surf_sandstorm2_stage_2.rec
 -rw-r--r-- 1  111K Sep  3 19:30 surf_sandstorm2_stage_3.rec
 -rw-r--r-- 1   97K Sep  3 19:30 surf_sandstorm2_stage_4.rec
--rw-r--r-- 1  155K Sep  3 19:30 surf_sandtrap2_bonus_1_style_5.rec
--rw-r--r-- 1  161K Sep  3 19:30 surf_sandtrap2_bonus_2_style_5.rec
 -rw-r--r-- 1  105K Sep  3 19:30 surf_sandtrap2_bonus_4_style_5.rec
 -rw-r--r-- 1  526K Sep  3 19:30 surf_sandtrap2_style_5.rec
 -rw-r--r-- 1   74K Sep  3 19:30 surf_saturday_fix_bonus_1.rec
@@ -4680,7 +4690,6 @@ total 1.3G
 -rw-r--r-- 1   63K Sep  3 19:29 surf_fruits2_stage_13.rec
 -rw-r--r-- 1   83K Sep  3 19:29 surf_fruits2_stage_14.rec
 -rw-r--r-- 1   19K Sep  3 19:29 surf_fruits2_stage_2.rec
--rw-r--r-- 1  1.2M Sep  3 19:29 surf_freedom-.rec
 -rw-r--r-- 1  121K Sep  3 19:29 surf_freedom-_stage_5.rec
 -rw-r--r-- 1   84K Sep  3 19:29 surf_frequency_njv_bonus_1.rec
 -rw-r--r-- 1   81K Sep  3 19:29 surf_frey2_go_fix_bonus_1.rec
@@ -4698,7 +4707,6 @@ total 1.3G
 -rw-r--r-- 1  664K Sep  3 19:29 surf_fortum_style_7.rec
 -rw-r--r-- 1   46K Sep  3 19:29 surf_freedom-_stage_1.rec
 -rw-r--r-- 1   89K Sep  3 19:29 surf_freedom-_stage_2.rec
--rw-r--r-- 1  128K Sep  3 19:29 surf_freedom-_stage_4.rec
 -rw-r--r-- 1   95K Sep  3 19:29 surf_frequency_njv_bonus_2.rec
 -rw-r--r-- 1   77K Sep  3 19:29 surf_forbidden_tomb3_stage_3.rec
 -rw-r--r-- 1   76K Sep  3 19:29 surf_forbidden_tomb3_stage_6.rec
@@ -4759,7 +4767,6 @@ total 1.3G
 -rw-r--r-- 1   82K Sep  3 19:29 surf_fade_bonus_1.rec
 -rw-r--r-- 1   60K Sep  3 19:29 surf_fade_stage_2.rec
 -rw-r--r-- 1   76K Sep  3 19:29 surf_fade_stage_3.rec
--rw-r--r-- 1   75K Sep  3 19:29 surf_fade_stage_5.rec
 -rw-r--r-- 1  242K Sep  3 19:29 surf_faint_fix.rec
 -rw-r--r-- 1   65K Sep  3 19:29 surf_faint_fix_bonus_2.rec
 -rw-r--r-- 1  322K Sep  3 19:29 surf_faint_fix_style_4.rec
@@ -5412,8 +5419,6 @@ total 1.3G
 -rw-r--r-- 1  238K Sep  3 19:28 surf_aweles.rec
 -rw-r--r-- 1   59K Sep  3 19:28 surf_aweles_stage_1.rec
 -rw-r--r-- 1   50K Sep  3 19:28 surf_aweles_stage_2.rec
--rw-r--r-- 1   36K Sep  3 19:28 surf_aweles_stage_3.rec
--rw-r--r-- 1   37K Sep  3 19:28 surf_aweles_stage_4.rec
 -rw-r--r-- 1  452K Sep  3 19:28 surf_astray.rec
 -rw-r--r-- 1   50K Sep  3 19:28 surf_atrium_bonus_1.rec
 -rw-r--r-- 1   41K Sep  3 19:28 surf_atrium_bonus_1_style_6.rec
@@ -5576,7 +5581,6 @@ total 1.3G
 -rw-r--r-- 1   31K Sep  3 19:28 surf_abstinens_stage_1.rec
 -rw-r--r-- 1   29K Sep  3 19:28 surf_abstinens_stage_2.rec
 -rw-r--r-- 1   66K Sep  3 19:28 surf_abstinens_stage_3.rec
--rw-r--r-- 1   75K Sep  3 19:28 surf_abstinens_stage_4.rec
 -rw-r--r-- 1   60K Sep  3 19:28 surf_1day_stage_5.rec
 -rw-r--r-- 1  2.6M Sep  3 19:28 surf_1day_style_5.rec
 -rw-r--r-- 1   58K Sep  3 19:28 surf_25_lighters_bonus_3_style_2.rec
@@ -5585,7 +5589,6 @@ total 1.3G
 -rw-r--r-- 1  191K Sep  3 19:28 surf_2pacisalive.rec
 -rw-r--r-- 1  166K Sep  3 19:28 surf_3.rec
 -rw-r--r-- 1  216K Sep  3 19:28 surf_4dimensional_stage_1.rec
--rw-r--r-- 1  205K Sep  3 19:28 surf_4dimensional_stage_2.rec
 -rw-r--r-- 1  318K Sep  3 19:28 surf_4dimensional_stage_3.rec
 -rw-r--r-- 1  307K Sep  3 19:28 surf_4head_csgo.rec
 -rw-r--r-- 1   92K Sep  3 19:28 surf_4head_csgo_bonus_1.rec
