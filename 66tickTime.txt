@@ -1,6 +1,23 @@
 total 1.3G
--rw-r--r-- 1  231K Jan  6  2022 surf_autism_2.rec
--rw-r--r-- 1  488K Jan  6  2022 surf_halloween_tf.rec
+-rw-r--r-- 1  161K Jan  7  2022 surf_delarium_stage_3.rec
+-rw-r--r-- 1   49K Jan  6 23:38 surf_animals_ksf_stage_4.rec
+-rw-r--r-- 1   76K Jan  6 22:15 surf_parachutes_stage_2.rec
+-rw-r--r-- 1   63K Jan  6 22:06 surf_parachutes_stage_1.rec
+-rw-r--r-- 1  113K Jan  6 19:12 surf_concretejungle_fix_stage_2.rec
+-rw-r--r-- 1  160K Jan  6 19:05 surf_concretejungle_fix_bonus_5.rec
+-rw-r--r-- 1  119K Jan  6 18:57 surf_paradigm_bonus_1.rec
+-rw-r--r-- 1   63K Jan  6 18:32 surf_concept_stage_2.rec
+-rw-r--r-- 1  116K Jan  6 18:28 surf_happyhug_stage_2.rec
+-rw-r--r-- 1   30K Jan  6 18:07 surf_cubic_stage_2.rec
+-rw-r--r-- 1  129K Jan  6 17:55 surf_lockdown_bonus_2.rec
+-rw-r--r-- 1  247K Jan  6 15:21 surf_timewarp_stage_5.rec
+-rw-r--r-- 1  241K Jan  6 15:10 surf_timewarp_stage_4.rec
+-rw-r--r-- 1  1.4M Jan  6 15:08 surf_timewarp.rec
+-rw-r--r-- 1  131K Jan  6 15:04 surf_timewarp_stage_2.rec
+-rw-r--r-- 1  110K Jan  6 15:02 surf_timewarp_stage_1.rec
+-rw-r--r-- 1  119K Jan  6 14:45 surf_whynot_bonus_2.rec
+-rw-r--r-- 1  231K Jan  6 03:18 surf_autism_2.rec
+-rw-r--r-- 1  488K Jan  6 02:18 surf_halloween_tf.rec
 -rw-r--r-- 1   91K Jan  6 01:37 surf_vitun_rotta_bonus_2.rec
 -rw-r--r-- 1  109K Jan  6 01:19 surf_vitun_rotta_bonus_1.rec
 -rw-r--r-- 1  295K Jan  6 00:27 surf_jumble.rec
@@ -134,7 +151,6 @@ total 1.3G
 -rw-r--r-- 1  201K Jan  2 02:42 surf_runewords_stage_4.rec
 -rw-r--r-- 1  130K Jan  2 02:33 surf_runewords_stage_3.rec
 -rw-r--r-- 1  602K Jan  2 02:13 surf_runewords.rec
--rw-r--r-- 1  164K Jan  1 23:08 surf_delarium_stage_3.rec
 -rw-r--r-- 1   63K Jan  1 22:50 surf_delarium_stage_2.rec
 -rw-r--r-- 1   50K Jan  1 22:38 surf_delarium_stage_1.rec
 -rw-r--r-- 1  217K Jan  1 22:26 surf_satellite_fix.rec
@@ -764,13 +780,11 @@ total 1.3G
 -rw-r--r-- 1   78K Dec 17 14:55 surf_ezclap_stage_3.rec
 -rw-r--r-- 1   69K Dec 17 14:47 surf_ezclap_stage_1.rec
 -rw-r--r-- 1   98K Dec 17 10:26 surf_coralis_ksf_bonus_2.rec
--rw-r--r-- 1  120K Dec 17 09:00 surf_happyhug_stage_2.rec
 -rw-r--r-- 1  405K Dec 17 02:55 surf_stonework2.rec
 -rw-r--r-- 1  1.1M Dec 17 01:02 surf_borderlands_style_5.rec
 -rw-r--r-- 1   26K Dec 16 23:15 surf_beginner_stage_1.rec
 -rw-r--r-- 1  253K Dec 16 23:01 surf_beginner.rec
 -rw-r--r-- 1  188K Dec 16 22:57 surf_whynot_stage_4.rec
--rw-r--r-- 1  120K Dec 16 22:47 surf_whynot_bonus_2.rec
 -rw-r--r-- 1   52K Dec 16 22:43 surf_beginner_stage_6.rec
 -rw-r--r-- 1   59K Dec 16 22:41 surf_beginner_stage_7.rec
 -rw-r--r-- 1   44K Dec 16 22:37 surf_beginner_stage_5.rec
@@ -904,7 +918,6 @@ total 1.3G
 -rw-r--r-- 1   53K Dec 12 18:05 surf_syria_again_stage_7.rec
 -rw-r--r-- 1   51K Dec 12 18:00 surf_syria_again_stage_4.rec
 -rw-r--r-- 1  131K Dec 12 17:45 surf_elysium_bonus_1.rec
--rw-r--r-- 1   34K Dec 12 17:00 surf_cubic_stage_2.rec
 -rw-r--r-- 1  685K Dec 12 15:19 surf_epic.rec
 -rw-r--r-- 1   68K Dec 12 15:19 surf_epic_stage_7.rec
 -rw-r--r-- 1   46K Dec 12 15:12 surf_epic_stage_3.rec
@@ -2053,8 +2066,6 @@ total 1.3G
 -rw-r--r-- 1  100K Oct 17 15:44 surf_parachutes_stage_4.rec
 -rw-r--r-- 1   48K Oct 17 15:40 surf_orthodox_fix_stage_3.rec
 -rw-r--r-- 1  104K Oct 17 15:38 surf_parachutes_stage_3.rec
--rw-r--r-- 1   75K Oct 17 15:22 surf_parachutes_stage_2.rec
--rw-r--r-- 1   61K Oct 17 14:52 surf_parachutes_stage_1.rec
 -rw-r--r-- 1   81K Oct 16 22:45 surf_psycho_njv_stage_2.rec
 -rw-r--r-- 1  305K Oct 16 22:20 surf_kitsune_fix.rec
 -rw-r--r-- 1   28K Oct 16 21:57 surf_kitsune_fix_stage_8.rec
@@ -3310,12 +3321,7 @@ total 1.3G
 -rw-r--r-- 1   40K Sep  3 19:31 surf_tranquility_stage_2.rec
 -rw-r--r-- 1   86K Sep  3 19:31 surf_tranquility_stage_5.rec
 -rw-r--r-- 1  6.3M Sep  3 19:31 surf_thesteve_style_5.rec
--rw-r--r-- 1  2.2M Sep  3 19:31 surf_timewarp.rec
--rw-r--r-- 1  102K Sep  3 19:31 surf_timewarp_stage_1.rec
--rw-r--r-- 1  130K Sep  3 19:31 surf_timewarp_stage_2.rec
 -rw-r--r-- 1  131K Sep  3 19:31 surf_timewarp_stage_3.rec
--rw-r--r-- 1  246K Sep  3 19:31 surf_timewarp_stage_4.rec
--rw-r--r-- 1  243K Sep  3 19:31 surf_timewarp_stage_5.rec
 -rw-r--r-- 1  360K Sep  3 19:31 surf_torque.rec
 -rw-r--r-- 1   71K Sep  3 19:31 surf_torque2_stage_2.rec
 -rw-r--r-- 1  162K Sep  3 19:31 surf_torque2_stage_4.rec
@@ -4313,7 +4319,6 @@ total 1.3G
 -rw-r--r-- 1   67K Sep  3 19:30 surf_lithium_stage_2.rec
 -rw-r--r-- 1   74K Sep  3 19:30 surf_lithium_stage_3.rec
 -rw-r--r-- 1   74K Sep  3 19:30 surf_lithium_stage_4.rec
--rw-r--r-- 1  123K Sep  3 19:30 surf_lockdown_bonus_2.rec
 -rw-r--r-- 1  433K Sep  3 19:30 surf_lockdown_style_5.rec
 -rw-r--r-- 1  212K Sep  3 19:30 surf_lockdown_style_7.rec
 -rw-r--r-- 1  530K Sep  3 19:30 surf_life_of_cow.rec
@@ -5049,7 +5054,6 @@ total 1.3G
 -rw-r--r-- 1   25K Sep  3 19:29 surf_concreteideas_stage_7.rec
 -rw-r--r-- 1   97K Sep  3 19:29 surf_concretejungle_fix_bonus_2.rec
 -rw-r--r-- 1  115K Sep  3 19:29 surf_concretejungle_fix_bonus_3.rec
--rw-r--r-- 1  119K Sep  3 19:29 surf_concretejungle_fix_stage_2.rec
 -rw-r--r-- 1  151K Sep  3 19:29 surf_concretejungle_fix_stage_3.rec
 -rw-r--r-- 1  120K Sep  3 19:29 surf_concretejungle_fix_stage_4.rec
 -rw-r--r-- 1  153K Sep  3 19:29 surf_concretejungle_fix_stage_5.rec
@@ -5073,7 +5077,6 @@ total 1.3G
 -rw-r--r-- 1  114K Sep  3 19:29 surf_compulsive_njv_stage_3.rec
 -rw-r--r-- 1  106K Sep  3 19:29 surf_compulsive_njv_stage_4.rec
 -rw-r--r-- 1   30K Sep  3 19:29 surf_concept_stage_1.rec
--rw-r--r-- 1   56K Sep  3 19:29 surf_concept_stage_2.rec
 -rw-r--r-- 1   70K Sep  3 19:29 surf_concept_stage_5.rec
 -rw-r--r-- 1  234K Sep  3 19:29 surf_colum_2_style_4.rec
 -rw-r--r-- 1  330K Sep  3 19:29 surf_colum_2_style_5.rec
@@ -5480,7 +5483,6 @@ total 1.3G
 -rw-r--r-- 1   36K Sep  3 19:28 surf_animals_ksf_stage_11.rec
 -rw-r--r-- 1   44K Sep  3 19:28 surf_animals_ksf_stage_2.rec
 -rw-r--r-- 1   52K Sep  3 19:28 surf_animals_ksf_stage_3.rec
--rw-r--r-- 1   49K Sep  3 19:28 surf_animals_ksf_stage_4.rec
 -rw-r--r-- 1   41K Sep  3 19:28 surf_animals_ksf_stage_5.rec
 -rw-r--r-- 1   69K Sep  3 19:28 surf_animals_ksf_stage_6.rec
 -rw-r--r-- 1   53K Sep  3 19:28 surf_animals_ksf_stage_7.rec
