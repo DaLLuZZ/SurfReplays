@@ -1,7 +1,21 @@
 total 1.5G
--rw-r--r-- 1   67K Feb 28  2022 surf_prosaic_stage_4.rec
--rw-r--r-- 1   75K Feb 28  2022 surf_prosaic_stage_2.rec
--rw-r--r-- 1   38K Feb 28  2022 surf_prosaic_stage_1.rec
+-rw-r--r-- 1   51K Feb 28 23:26 surf_benevolent_stage_6.rec
+-rw-r--r-- 1  1.5M Feb 28 22:31 surf_beginner_style_2.rec
+-rw-r--r-- 1  233K Feb 28 21:57 surf_skeelee_style_2.rec
+-rw-r--r-- 1  452K Feb 28 21:41 surf_how2surf_style_7.rec
+-rw-r--r-- 1  440K Feb 28 21:06 surf_subway_style_5.rec
+-rw-r--r-- 1  288K Feb 28 20:57 surf_subway_style_4.rec
+-rw-r--r-- 1  2.0M Feb 28 17:44 surf_lessons_style_2.rec
+-rw-r--r-- 1   61K Feb 28 17:01 surf_sandtrap2_bonus_4.rec
+-rw-r--r-- 1   25K Feb 28 16:14 surf_illumination_bonus_3.rec
+-rw-r--r-- 1  196K Feb 28 15:23 surf_the_forest.rec
+-rw-r--r-- 1   82K Feb 28 12:37 surf_syria_again_stage_6.rec
+-rw-r--r-- 1   53K Feb 28 12:31 surf_syria_again_stage_7.rec
+-rw-r--r-- 1   53K Feb 28 12:28 surf_syria_again_stage_2.rec
+-rw-r--r-- 1   48K Feb 28 07:07 surf_garden_go_stage_8.rec
+-rw-r--r-- 1   67K Feb 28 02:41 surf_prosaic_stage_4.rec
+-rw-r--r-- 1   75K Feb 28 01:58 surf_prosaic_stage_2.rec
+-rw-r--r-- 1   38K Feb 28 01:46 surf_prosaic_stage_1.rec
 -rw-r--r-- 1   73K Feb 28 00:54 surf_piano_stage_10.rec
 -rw-r--r-- 1   65K Feb 28 00:30 surf_piano_stage_9.rec
 -rw-r--r-- 1   61K Feb 28 00:27 surf_piano_stage_8.rec
@@ -651,7 +665,6 @@ total 1.5G
 -rw-r--r-- 1   25K Feb 13 00:41 surf_colum_stage_1.rec
 -rw-r--r-- 1   12K Feb 13 00:30 surf_colum_stage_3.rec
 -rw-r--r-- 1  287K Feb 12 22:37 surf_saturday_fix.rec
--rw-r--r-- 1  198K Feb 12 22:07 surf_the_forest.rec
 -rw-r--r-- 1   72K Feb 12 21:55 surf_tuscany_bonus_4.rec
 -rw-r--r-- 1   78K Feb 12 21:38 surf_tuscany_stage_3.rec
 -rw-r--r-- 1   63K Feb 12 21:25 surf_tuscany_bonus_3.rec
@@ -1832,7 +1845,6 @@ total 1.5G
 -rw-r--r-- 1   97K Jan  4 04:38 surf_wasteland_fix_bonus_1.rec
 -rw-r--r-- 1   52K Jan  4 03:03 surf_dreams_stage_4.rec
 -rw-r--r-- 1  254K Jan  4 02:44 surf_the_gloaming.rec
--rw-r--r-- 1   56K Jan  4 01:02 surf_sandtrap2_bonus_4.rec
 -rw-r--r-- 1  142K Jan  3 23:41 surf_sandtrap2_bonus_1_style_5.rec
 -rw-r--r-- 1  145K Jan  3 23:40 surf_sandtrap2_bonus_2_style_5.rec
 -rw-r--r-- 1   99K Jan  3 19:55 surf_kitsune2_stage_9.rec
@@ -2441,7 +2453,6 @@ total 1.5G
 -rw-r--r-- 1   85K Dec 12 18:17 surf_loweffort_stage_5.rec
 -rw-r--r-- 1  105K Dec 12 18:15 surf_funhouse2_bonus_1.rec
 -rw-r--r-- 1  301K Dec 12 18:12 surf_loweffort_bonus_1_style_5.rec
--rw-r--r-- 1   53K Dec 12 18:05 surf_syria_again_stage_7.rec
 -rw-r--r-- 1   51K Dec 12 18:00 surf_syria_again_stage_4.rec
 -rw-r--r-- 1  131K Dec 12 17:45 surf_elysium_bonus_1.rec
 -rw-r--r-- 1  685K Dec 12 15:19 surf_epic.rec
@@ -3871,7 +3882,6 @@ total 1.5G
 -rw-r--r-- 1  106K Sep 18 00:20 surf_enlightened_bonus_5.rec
 -rw-r--r-- 1  169K Sep 18 00:04 surf_enlightened_bonus_8.rec
 -rw-r--r-- 1  157K Sep 17 23:53 surf_enlightened_bonus_6.rec
--rw-r--r-- 1  251K Sep 17 23:44 surf_skeelee_style_2.rec
 -rw-r--r-- 1  2.6M Sep 17 23:40 surf_rookie_style_2.rec
 -rw-r--r-- 1  975K Sep 17 23:30 surf_borderlands_style_2.rec
 -rw-r--r-- 1  129K Sep 17 23:21 surf_dhyana_stage_4.rec
@@ -4438,10 +4448,8 @@ total 1.5G
 -rw-r--r-- 1   69K Sep  3 19:31 surf_synada_bonus_3.rec
 -rw-r--r-- 1  601K Sep  3 19:31 surf_syria_again.rec
 -rw-r--r-- 1   18K Sep  3 19:31 surf_syria_again_stage_1.rec
--rw-r--r-- 1   50K Sep  3 19:31 surf_syria_again_stage_2.rec
 -rw-r--r-- 1   20K Sep  3 19:31 surf_syria_again_stage_3.rec
 -rw-r--r-- 1   65K Sep  3 19:31 surf_syria_again_stage_5.rec
--rw-r--r-- 1   73K Sep  3 19:31 surf_syria_again_stage_6.rec
 -rw-r--r-- 1   34K Sep  3 19:31 surf_syria_stage_3.rec
 -rw-r--r-- 1   49K Sep  3 19:31 surf_syria_stage_7.rec
 -rw-r--r-- 1   53K Sep  3 19:31 surf_syria_stage_8.rec
@@ -5520,7 +5528,6 @@ total 1.5G
 -rw-r--r-- 1   86K Sep  3 19:29 surf_garden_go_bonus_1.rec
 -rw-r--r-- 1  148K Sep  3 19:29 surf_garden_go_bonus_3_style_6.rec
 -rw-r--r-- 1   45K Sep  3 19:29 surf_garden_go_stage_10.rec
--rw-r--r-- 1   40K Sep  3 19:29 surf_garden_go_stage_8.rec
 -rw-r--r-- 1   32K Sep  3 19:29 surf_garden_go_stage_9.rec
 -rw-r--r-- 1  767K Sep  3 19:29 surf_garden_go_style_5.rec
 -rw-r--r-- 1  1.7M Sep  3 19:29 surf_garden_go_style_6.rec
@@ -6068,7 +6075,6 @@ total 1.5G
 -rw-r--r-- 1   24K Sep  3 19:28 surf_benevolent_stage_3.rec
 -rw-r--r-- 1   44K Sep  3 19:28 surf_benevolent_stage_4.rec
 -rw-r--r-- 1   34K Sep  3 19:28 surf_benevolent_stage_5.rec
--rw-r--r-- 1   43K Sep  3 19:28 surf_benevolent_stage_6.rec
 -rw-r--r-- 1   50K Sep  3 19:28 surf_benevolent_stage_7.rec
 -rw-r--r-- 1  705K Sep  3 19:28 surf_beverages.rec
 -rw-r--r-- 1  141K Sep  3 19:28 surf_beverages_bonus_3_style_5.rec
